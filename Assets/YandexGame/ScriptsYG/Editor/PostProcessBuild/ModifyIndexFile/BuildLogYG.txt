@@ -1,0 +1,2 @@
+Build path: /Users/ramildzafarli/CyberKazual!/MyGame2
+Build number: 45
